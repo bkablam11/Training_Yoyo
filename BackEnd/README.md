@@ -7,7 +7,7 @@ Chat boot et application de commande vocal
     La fonction yoyo de l'Api prends le montant et le service et retourne la syntaxe de souscription.
     
     #### Installation
-     - Créer un environnement virtuel avec python 3.8;
+     - Créer un environnement virtuel avec python 3.8 **python -m venv {nom_de_ton_venv}**;
      - Installer le requirements.txt avec ***pip install -r requirements.txt***
      
 2. Modèle de traitement de la phrase
